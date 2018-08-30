@@ -52,4 +52,11 @@ Part Two - Chapters on Subjection of Morse Code ...
 * [Chapter Thirty Three](src/chapter-thirty-three.md) A Brief History of United States Operator Licensing Requirements and Military Training
 * [Chapter Thirty Four](src/chapter-thirty-four.md) Examples which Illustrate the Nature of Real Skills
 * [Appendix](src/appendix.md) Sources of Material
-* [Appendix Two](src/appendix-two.md) High-Speed Appendix
+* Appendix Two - High-Speed Appendix
+  * [A new Way to Talk?](src/a-new-way-to-talk.md)
+  * [Recommendations for How Best To Achieve It](src/recomendations-for-how-best-to-archieve-it.md)
+  * [Keyboards - Code-Sending Typewriters](src/keyboards-code-sending-typewriters.md)
+  * [The Experiences of a Number of QRQ Operators Who Have Achieved It](src/the-experiences.md)
+  * Futher Thinking
+    * [The ‘High-Speed’ Circuits of Commercial Telegraphy](src/the-high-speed-circuits-of-commercial-telegraphy.md)
+    * [No Challenge in Older Times](src/no-challenge-in-older-times.md)
