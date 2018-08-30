@@ -1,23 +1,30 @@
 # Глава А
-# A New Way to Talk?
+# Новый способ говорить?
 
 Это было в 1925 в восточной Пенсильвании, когда Эд Харт в возрасте 15 лет стал радиолюбителем с 
 его первой операторской лицензией и позывным 3NF (в те дни требовалось две лицензии). Его младшему 
-брату, который был на 3.5 года моложе, стало любопытно, что это Эд делал и отчего ему так весело? Что это за
-новый язык, который он использует? Джордж сказал:
+брату, который был на 3.5 года моложе, стало любопытно, что это Эд делал и отчего ему так весело? 
+Что это за новый язык, который он использует? Джордж сказал:
 
 It was in 1925 in eastern Pennsylvania that Ed Hart at age 15 became a ham with his first
 operator’s license and call 3NF (two licenses were required in those days). His 3-1/2 year old
 younger brother George got curious. What was this Ed was doing and having so much fun
 with? Was it some sort of new language he was using? -- George said:
 
+"Я восхищался моим старшим братом Эдом. Он был моим идеалом. Ему было 15, мне - 11. Я начал изучать
+код Морзе подобно ребенку, который учится разговаривать - просто слушая как мой страший брат работает,
+узнавая код Морзе "осмосом", распознавая и подражая наиболее часто повторяющимся звукам.
+
 ”I admired my big brother Ed. He was my ideal. He was 15 and I was 11. I began to learn the
 Morse code like a baby learns to talk – by listening to my big brother operate and I picked up the
 ‘code’ by ‘osmosis’-- recognizing and imitating the more frequent sounds I heard.
 
-Я понятия не имел о "точках" и "тире", для меня это были просто символы со смыслом.
+Я понятия не имел о "точках" и "тире", для меня это были просто символы с неким смыслом.
 
 I wasn’t aware of any such thing as “dots” and “dashes”, but only of symbols with meaning.
+
+Я быстро изучил звуки частых CQ, его позывной 3NF и спецсигналов, таких как "AR K", "DE" и "R" 
+(всё еще используются сегодня) и "U" (предшествовал префиксам W и K для американских позывных)
 
 I quickly learned the sounds of his frequent CQ’s, his call 3NF and special procedure signals
 such as “AR, K”, “DE” and “R” (all still used), and “U” (for US calls to foreigners before the
